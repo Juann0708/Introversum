@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>505226784113-f1g90112c57kgt0f0nuvsr59b1979r2q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.505226784113-f1g90112c57kgt0f0nuvsr59b1979r2q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDr5ju28p9-HyMI64r5T0NTQ-fBS0PaAv8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>505226784113</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>juann0708.Introversum</string>
+	<key>PROJECT_ID</key>
+	<string>introversum-873b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>introversum-873b7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:505226784113:ios:63487571d1ab1182</string>
+	<key>DATABASE_URL</key>
+	<string>https://introversum-873b7.firebaseio.com</string>
+</dict>
+</plist>
